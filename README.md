@@ -34,8 +34,8 @@ If you're interested in compiling the LaTeX files itself, here's what you need
 
 **Qiu Linan**
 
-- (http://github.com/linanqiu)[http://github.com/linanqiu]
-- (https://www.linkedin.com/in/linanqiu)[https://www.linkedin.com/in/linanqiu]
+- [http://github.com/linanqiu](http://github.com/linanqiu)
+- [https://www.linkedin.com/in/linanqiu](https://www.linkedin.com/in/linanqiu)
 
 ## Copyright and License
 
